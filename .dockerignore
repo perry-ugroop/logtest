@@ -1,0 +1,10 @@
+**/*.*
+!.babelrc
+!config.js
+!index.js
+!logs/empty.txt
+!package.json
+!package-lock.json
+!utils.js
+!views/index.js
+
